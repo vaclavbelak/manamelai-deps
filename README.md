@@ -34,6 +34,7 @@ contain its `LICENSE`. The release also carries:
   for 1.22.0, taken unmodified from `onnxruntime-1.22.0-cp312-cp312-macosx_13_0_universal2.whl`
   on PyPI (wheel sha256 `f3c0380f53c1e72a41b3f4d6af2ccc01df2c17844072233442c3a7e74851ab97`,
   file sha256 `e9e90971a8e75a9a8ac0c6412e29c1202d079998389915aa485f46c816c3b4cc`).
-  It covers every ONNX Runtime build; the iOS binaries contain only a subset.
+  It is Microsoft's notice file for the 1.22.0 release as published in that
+  wheel, and is not specific to the iOS binaries.
 
 Do not replace release assets in place; a new version is a new release tag.
